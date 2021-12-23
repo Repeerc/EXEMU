@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exemu1", "exemu1\exemu1.vcxproj", "{0018BFB2-23D3-4322-8F2C-66EE6122BEF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0018BFB2-23D3-4322-8F2C-66EE6122BEF4}.Debug|x64.ActiveCfg = Debug|x64
+		{0018BFB2-23D3-4322-8F2C-66EE6122BEF4}.Debug|x64.Build.0 = Debug|x64
+		{0018BFB2-23D3-4322-8F2C-66EE6122BEF4}.Debug|x86.ActiveCfg = Debug|Win32
+		{0018BFB2-23D3-4322-8F2C-66EE6122BEF4}.Debug|x86.Build.0 = Debug|Win32
+		{0018BFB2-23D3-4322-8F2C-66EE6122BEF4}.Release|x64.ActiveCfg = Release|x64
+		{0018BFB2-23D3-4322-8F2C-66EE6122BEF4}.Release|x64.Build.0 = Release|x64
+		{0018BFB2-23D3-4322-8F2C-66EE6122BEF4}.Release|x86.ActiveCfg = Release|Win32
+		{0018BFB2-23D3-4322-8F2C-66EE6122BEF4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5140605A-C75D-468C-A56B-5B156BCC4CF4}
+	EndGlobalSection
+EndGlobal
